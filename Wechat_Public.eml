@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../out/test/Wechat_Public"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 9.0.0.M3" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 9.0.0.M3" value="application_server_libraries"/>
+		<level name="dom4j-2.0.0" value="project"/>
+		<level name="xstream-1.4.9" value="project"/>
+	</levels>
+</component>
